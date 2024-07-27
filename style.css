@@ -49,9 +49,9 @@ body * {
 
 
 #container {
-  width: 360px;
+  width: 100%;
   /* px solid color */
-
+  max-width: 588px;
   /* espaço vazio aos lados e margin cima, direita, baixo e */
   margin: 50px auto 0px auto;
   padding: 0px 24px;
