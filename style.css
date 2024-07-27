@@ -43,7 +43,6 @@ body * {
   color: var(--text-color);
 }
 
-
 #container {
   width: 100%;
   /* px solid color */
@@ -115,8 +114,6 @@ ul {
   outline: 8px solid var(--highlight-color);
 
 }
-
-
 
 #switch span {
   display: block;
